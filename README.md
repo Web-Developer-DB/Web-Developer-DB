@@ -42,7 +42,7 @@ Ich mag Projekte, bei denen <strong>Architektur, UX und Technik zusammenpassen</
 
 ---
 
-## 🧰 Tech Stack (Dracula-Style)
+## 🧰 Tech Stack
 
 <div align="center">
 
