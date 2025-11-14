@@ -171,7 +171,7 @@ Ich mag Projekte, bei denen <strong>Architektur, UX und Technik zusammenpassen</
 
 - 🧛‍♂️ GitHub: <a href="https://github.com/Web-Developer-DB">Web-Developer-DB</a>  
 - 🌐 GitHub Pages / Portfolio: <a href="https://web-developer-db.github.io">web-developer-db.github.io</a>  
-- ✉️ (Optional) E-Mail oder LinkedIn kannst du hier ergänzen
+
 
 <div align="center">
 
