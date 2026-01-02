@@ -20,7 +20,7 @@
 
   <!-- Schnelle Links -->
   <p>
-    <a href="https://web-developer-db.github.io">🌐 Portfolio / GitHub Pages</a> ·
+    <a href="https://portfolio-web-developer-db.vercel.app">🌐 Portfolio / GitHub Pages</a> ·
     <a href="https://github.com/Web-Developer-DB?tab=repositories">📦 Alle Repositories</a>
   </p>
 
