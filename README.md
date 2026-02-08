@@ -1,27 +1,21 @@
 <!--
-   PROFIL-README FÜR:
-   GitHub: Web-Developer-DB
-   Fokus: Kreativer Fullstack-Developer (MERN, React, Vite, Linux/WSL, Dev-Tools, PWAs)
-   Theme: Dracula / Dark Mode
+  GitHub Profile README für Web-Developer-DB
+  Fokus: Kreativer Fullstack-Entwickler (MERN, Vite, Shell, Linux, Codex, Dark-Mode)
+  Stil: Dracula-Theme / Dark-Mode
 -->
 
 <div align="center">
 
-  <!-- Platzhalter für dein Robo-/Maskottchen-Logo -->
-  <!-- <img src="https://raw.githubusercontent.com/Web-Developer-DB/assets/main/avatar.png" width="180" alt="Web-Developer-DB – Logo" /> -->
-
   <h1>🧛‍♂️ Web-Developer-DB</h1>
-
-  <p><strong>Kreativer Fullstack-Developer aus Deutschland</strong> – spezialisiert auf moderne Web-Apps, Dark-Mode-Interfaces & Developer-Tools.</p>
+  <p><strong>Kreativer Fullstack-Webentwickler aus Deutschland</strong> – spezialisiert auf moderne Web-Apps, Offline-Tools, Dark-Mode-Designs & Automatisierung.</p>
 
   <p>
-    <em>MongoDB · Express.js · TypeScript · Node.js · React/Vite · Tailwind · Linux &amp; WSL</em>
+    <em>MongoDB · Express.js · React/Vite · Node.js · Tailwind · TypeScript · Linux & WSL</em>
   </p>
 
-  <!-- Schnelle Links -->
   <p>
-    <a href="https://portfolio-web-developer-db.vercel.app">🌐 Portfolio / GitHub Pages</a> ·
-    <a href="https://github.com/Web-Developer-DB?tab=repositories">📦 Alle Repositories</a>
+    <a href="https://portfolio-web-developer-db.vercel.app">🌐 Portfolio</a> ·
+    <a href="https://github.com/Web-Developer-DB?tab=repositories">📦 Repositories</a>
   </p>
 
 </div>
@@ -30,19 +24,34 @@
 
 ## 🦇 Über mich
 
-Hey, ich bin <strong>Web-Developer-DB</strong> – ein Fullstack-Developer, der gerne mit modernen JavaScript-/TypeScript-Stacks arbeitet und Dark-Mode-Designs liebt.
+Hey, ich bin <strong>Web-Developer-DB</strong> – ein Fullstack-Entwickler mit einem Faible für <strong>strukturierte Anwendungen, klare UI-Designs und Dark-Mode-Ästhetik</strong>.
 
-- 💻 Arbeitet von zuhause, Schwerpunkt auf <strong>Web-Apps & Tools</strong>  
-- 🧠 Baut gerne <strong>offline-fähige PWAs</strong>, Checklisten-Apps und Spezial-Tools  
-- 🧪 Experimentiert mit <strong>React, Vite, MERN-Stack, Shell-Skripten</strong> und Automatisierung  
-- 🐧 Unterwegs auf <strong>Linux &amp; WSL</strong>, gerne nah an der Konsole  
-- 🎨 Design-Vorliebe: <strong>Dracula-Theme</strong>, klare Kontraste, Micro-Interactions und gute Lesbarkeit
+Ich habe über 20 Jahre Erfahrung in der Technik – ursprünglich als Elektroniker –, und heute entwickle ich moderne Web-Apps mit dem MERN-Stack, Vite und Shell-Skripten.  
+Ich liebe Tools, die das Leben vereinfachen, und Schnittstellen, die nicht nur funktionieren, sondern Spaß machen.
 
-Ich mag Projekte, bei denen <strong>Architektur, UX und Technik zusammenpassen</strong> – z. B. Log-Apps, Survival-Tools, Rezeptsammlungen oder Automations-Skripte.
+- 💻 Fokus: Web-Apps, Developer-Tools, Dark-UIs  
+- ⚙️ Tech-Lieblinge: React, Vite, Linux/WSL, TypeScript  
+- 🐚 Terminal-Fan: Shell-Skripting & Automatisierung  
+- 🧪 Experimente: PWAs, JSON-Backups, GitHub Actions  
+- 🧠 Stil: Funktion trifft auf Minimalismus – gerne mit Konsole, Struktur und Humor
 
 ---
 
-## 🧰 Tech Stack
+## 🤖 Künstliche Intelligenz in meinem Workflow
+
+Ich arbeite aktiv mit **OpenAI Codex & KI-Agenten** – nicht als Ersatz, sondern als smarte Unterstützung beim Codieren, Denken und Optimieren.
+
+KI-gestützte Tools helfen mir bei:
+- 🔍 Code-Verständnis, Refactoring und Test-Ideen  
+- 🧠 Prompt Engineering für automatisierte Skriptgenerierung  
+- ✨ Prototyping, API-Dokumentation und Skript-Optimierung  
+- 🔄 Effizientere Problemlösung – besonders bei wiederkehrenden DevOps-Aufgaben
+
+KI ist für mich Teil meines „digitalen Werkzeugkastens“ – genauso wie Git, Bash oder VS Code.
+
+---
+
+## 🧰 Mein Tech Stack
 
 <div align="center">
 
@@ -74,75 +83,61 @@ Ich mag Projekte, bei denen <strong>Architektur, UX und Technik zusammenpassen</
 
 ## 💡 Was ich gerne baue
 
-- **Offline-fähige PWAs** – Apps, die auch ohne stabile Internetverbindung funktionieren  
-- **Tools & Utilities** – Skripte und Helfer für den Alltag (z. B. Audio-Splitting, Survival-Planung)  
-- **APIs & Backends** – REST-APIs mit Authentifizierung, Tokens & MongoDB  
-- **Dark-Mode-UIs** – Interfaces mit Dracula-Theme, guten Kontrasten und Micro-Interactions
+- ✅ **Offline-fähige PWAs** – z. B. Checklisten, Notfallplaner, Journale  
+- 🔧 **Developer-Tools & Scripts** – Helfer für Dev-Alltag & Automation  
+- 🔐 **APIs & Backends** – mit Auth, Token & DB-Verknüpfung  
+- 🌓 **Dark-Mode-Interfaces** – mit Fokus auf UX, Kontraste und State-Handling  
+- 🧠 **KI-gestützte Lösungen** – smarte Kombination aus Logik & Assistenz
 
 ---
 
 ## 📂 Ausgewählte Projekte
 
+### 💼 Job Tracker – Offline-First Bewerbungsmanager (PWA)
+
+> Lokale Bewerbungs- und Planer-App mit Follow-ups, Filter/Suche, JSON-Backup und Druckansicht – komplett ohne Backend/Cloud  
+🔧 Stack: React 18, Vite, TypeScript, Zustand, IndexedDB, Tailwind CSS, Vitest  
+🔗 Code: [Web-Developer-DB/Job-Tracker](https://github.com/Web-Developer-DB/Job-Tracker)
+
+---
+
 ### 🔴 Logorama – PWA für Lern- & Projektjournale
-> Progressive Web-App, mit der Lernfortschritte, Projekt-Logs und Notizen organisiert werden können – komplett offlinefähig mit JSON-Backups und eigener Navigationslogik.:contentReference[oaicite:1]{index=1}  
 
-- 🧩 **Stack:** React, Vite, React Router, Jest, SWC  
-- 📦 Features:
-  - Logbuch mit Einträgen, Papierkorb, Suchen & Filtern  
-  - Dark-/Light-Theme mit eigener State-Verwaltung  
-  - PWA-Setup inkl. Manifest & Service Worker  
-  - Testabdeckung mit Jest + React Testing Library  
-- 🔗 Code: [Web-Developer-DB/Logorama](https://github.com/Web-Developer-DB/Logorama)
+> Offline-fähige App für Notizen, Logs und Lernfortschritte  
+🔧 Stack: React, Vite, React Router, Jest, SWC  
+🔗 Code: [Web-Developer-DB/Logorama](https://github.com/Web-Developer-DB/Logorama)
 
 ---
 
-### 🚗 CarService – Backend (MERN-basiertes REST-API)
-> Backend-API für Benutzer- und Fahrzeugverwaltung mit Fokus auf Sicherheit, JWT-Auth und klar dokumentierten Endpoints.:contentReference[oaicite:2]{index=2}  
+### 🚗 CarService – Backend (MERN-API)
 
-- 🧩 **Stack:** Node.js, Express.js, MongoDB, Mongoose  
-- 🔐 **Security:**
-  - Passwort-Hashing mit `bcrypt`  
-  - JWT-basierte Authentifizierung  
-  - Nutzung von `.env` für Secrets & DB-Verbindungen  
-- 📡 **API-Beispiele:**
-  - User-Registration/Login/Reset  
-  - Fahrzeug anlegen, updaten, löschen  
-- 🔗 Code: [Web-Developer-DB/CarService-Backend](https://github.com/Web-Developer-DB/CarService-Backend)
+> REST-API zur Benutzer- & Fahrzeugverwaltung mit Auth  
+🔧 Stack: Node.js, Express.js, MongoDB, JWT  
+🔗 Code: [Web-Developer-DB/CarService-Backend](https://github.com/Web-Developer-DB/CarService-Backend)
 
 ---
 
-### 🧪 Survival_List – Notfall-Vorratsplanung im Dracula-Theme
-> Interaktive React-Anwendung für eine zweimonatige Vorratshaltung, inkl. Einkaufslisten, Rezepte, Wochenplan und Spartipps – optimiert für Druck und mobile Nutzung.:contentReference[oaicite:3]{index=3}  
+### 🧪 Survival_List – Vorratsplaner im Dracula-Stil
 
-- 🧩 **Stack:** React 18, Vite, Custom CSS im Dracula-Look  
-- 📌 Features:
-  - Komplett offline nutzbar  
-  - Druckfreundliche Ansichten & Shortcuts  
-  - Wochenpläne & skalierbare Mengen pro Person  
-- 🔗 Code: [Web-Developer-DB/Survival_List](https://github.com/Web-Developer-DB/Survival_List)
+> Reaktive React-App zur Notfall-Vorratsplanung  
+🔧 Stack: React 18, Vite, Dracula-CSS  
+🔗 Code: [Web-Developer-DB/Survival_List](https://github.com/Web-Developer-DB/Survival_List)
 
 ---
 
-### 🍄 Pilze_Marinade – Modernes Rezept-UI mit Sicherheits-Logik
-> Einmach-/Marinaden-Tool mit moderner React-Oberfläche, Animationslayern, pH-Checks und Glas-/Ambient-Lighting-Effekten.:contentReference[oaicite:4]{index=4}  
+### 🍄 Pilze_Marinade – Rezept-Tool mit Sicherheitslogik
 
-- 🧩 **Stack:** React 18, Vite, modernes CSS (u. a. oklab, Glassmorphism)  
-- 🔬 Säure-Berechnung & Sicherheits-Infos direkt in der UI  
-- 🌈 Theme-Controls mit unterschiedlichen Farbwelten  
-- 🔗 Live: [pilze-marinade.vercel.app](https://pilze-marinade.vercel.app)  
-- 🔗 Code: [Web-Developer-DB/Pilze_Marinade](https://github.com/Web-Developer-DB/Pilze_Marinade)
+> Einmach-Tool mit Säure-Checks und Theme-Switcher  
+🔧 Stack: React, Vite, Glassmorphism-UI  
+🔗 Code: [Web-Developer-DB/Pilze_Marinade](https://github.com/Web-Developer-DB/Pilze_Marinade)
 
 ---
 
-### 🎧 YT-Audio-Splitter – Shell-Tool für Audio-Extraktion
-> Bash-Script, das `yt-dlp` und `FFmpeg` kombiniert, um Audio aus Videos zu extrahieren und automatisch nach Kapiteln oder festen Segmenten zu splitten – ideal für Sets, Vorlesungen & Interviews.:contentReference[oaicite:5]{index=5}  
+### 🎧 YT-Audio-Splitter – Shell-Tool zur Audio-Extraktion
 
-- 🧩 **Stack:** Bash, Linux/WSL, yt-dlp, FFmpeg  
-- 💿 Funktionen:
-  - MP3-Export mit Kapitel-Splitting  
-  - Fallback-Splitting bei fehlenden Kapiteln  
-  - Download-Archiv gegen Duplikate  
-- 🔗 Code: [Web-Developer-DB/YT-Audio-Splitter](https://github.com/Web-Developer-DB/YT-Audio-Splitter)
+> Bash-Skript mit `yt-dlp` & `FFmpeg` zur MP3-Aufteilung nach Kapiteln  
+🔧 Stack: Bash, WSL, FFmpeg, yt-dlp  
+🔗 Code: [Web-Developer-DB/YT-Audio-Splitter](https://github.com/Web-Developer-DB/YT-Audio-Splitter)
 
 ---
 
@@ -160,21 +155,19 @@ Ich mag Projekte, bei denen <strong>Architektur, UX und Technik zusammenpassen</
 
 ## 🗺️ Aktuell im Fokus
 
-- Verfeinerung von <strong>Fullstack-Setups (MERN + Vite/React)</strong>  
-- Weitere <strong>Offline-Tools</strong> für Alltag, Krisenvorsorge & Organisation  
-- Saubere <strong>API-Designs</strong> inkl. Auth, Validation & Logging  
-- Dark-Mode-/Dracula-Designs mit Micro-Interactions
+- 🌐 Ausbau moderner Fullstack-Apps mit Vite & Mongo  
+- 🧠 Weiterentwicklung von Offline-Tools & Survival-PWAs  
+- 🔐 API-Designs mit Auth, Validation & DX-Fokus  
+- 🤖 **Einsatz von KI-Agents (Codex)** für Coding, Refactoring & Workflow-Automatisierung  
+- 🎨 Feinschliff an Dracula-Themes mit guter Lesbarkeit und Micro-Animations
 
 ---
 
 ## 📫 Kontakt & Vernetzung
 
-- 🧛‍♂️ GitHub: <a href="https://github.com/Web-Developer-DB">Web-Developer-DB</a>  
-- 🌐 GitHub Pages / Portfolio: <a href="https://web-developer-db.github.io">web-developer-db.github.io</a>  
-
+- 🧛‍♂️ GitHub: [Web-Developer-DB](https://github.com/Web-Developer-DB)  
+- 🌐 Portfolio: [portfolio-web-developer-db.vercel.app](https://portfolio-web-developer-db.vercel.app)
 
 <div align="center">
-
-  <sub><i>„Code im Dark Mode. Denken im Fullstack.“</i></sub>
-
+  <sub><i>„Code im Dark Mode. Denken im Fullstack. Coden mit KI.“</i></sub>
 </div>
