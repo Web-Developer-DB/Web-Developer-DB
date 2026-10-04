@@ -27,7 +27,7 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
 <p align="center">
   <a href="https://portfolio-web-developer-db.vercel.app"><strong>Portfolio ansehen ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="#ausgewählte-projekte"><strong>Projekte entdecken ↓</strong></a>
+  <a href="#user-content-ausgewaehlte-projekte"><strong>Projekte entdecken ↓</strong></a>
   &nbsp; · &nbsp;
   <a href="https://portfolio-web-developer-db.vercel.app/#contact"><strong>Kontakt aufnehmen ↗</strong></a>
 </p>
@@ -35,6 +35,8 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
 <p align="center"><strong>Offen für Webentwicklung, IT-Support und Junior-Systemadministration.</strong></p>
 
 ---
+
+<a name="ausgewaehlte-projekte" id="ausgewaehlte-projekte"></a>
 
 ## Ausgewählte Projekte
 
@@ -44,7 +46,9 @@ Ein Projektblock besteht aus: eindeutigem Sprungziel, verlinktem Banner (1040 ×
 Überschrift, Kurzbeschreibung (höchstens 70 Wörter: Problem/eigener Beitrag/Stand),
 4–6 zentralen Technologien, Nachweislinks und optionaler echter Vorschau sowie details.
 Sprungziele als <a name="projektname" id="projektname"></a> mit identischen Werten anlegen;
-GitHub unterstützt benannte HTML-Anker. Den stabilen Namen auch bei neuen Titeln behalten.
+GitHub ergänzt beim Rendern den Präfix user-content-: Links auf dieser Profilseite daher
+als #user-content-projektname setzen. Eine lokale Vorschau muss denselben Präfix ergänzen.
+Den stabilen Namen auch bei neuen Titeln behalten; Sprünge direkt auf GitHub prüfen.
 Zum Ergänzen einen vorhandenen Block kopieren und Anker, Links, Bildpfade, Alt-Texte,
 Banner-Texte und Nummer anpassen. Neue Anker zugleich in der Orientierung verlinken.
 Bei einer Umordnung die Nummern aller betroffenen Banner und Alt-Texte abgleichen.
@@ -53,9 +57,9 @@ Demodaten ausdrücklich kennzeichnen; keine persönlichen Daten in Screenshots z
 Leerzeilen innerhalb der details erhalten, damit GitHub Markdown korrekt rendert.
 -->
 
-- **Webentwicklung:** [Job Tracker](#job-tracker)
-- **Linux & Server:** [T95 Home Server](#t95-home-server) · [Servergy](#servergy)
-- **KI & Automatisierung:** [ApplyFoundry](#applyfoundry)
+- **Webentwicklung:** [Job Tracker](#user-content-job-tracker)
+- **Linux & Server:** [T95 Home Server](#user-content-t95-home-server) · [Servergy](#user-content-servergy)
+- **KI & Automatisierung:** [ApplyFoundry](#user-content-applyfoundry)
 
 <a name="job-tracker" id="job-tracker"></a>
 
