@@ -43,6 +43,8 @@ HAUPTPROJEKTE ERWEITERN
 Ein Projektblock besteht aus: eindeutigem Sprungziel, verlinktem Banner (1040 × 110),
 Überschrift, Kurzbeschreibung (höchstens 70 Wörter: Problem/eigener Beitrag/Stand),
 4–6 zentralen Technologien, Nachweislinks und optionaler echter Vorschau sowie details.
+Sprungziele als <a name="projektname" id="projektname"></a> mit identischen Werten anlegen;
+GitHub unterstützt benannte HTML-Anker. Den stabilen Namen auch bei neuen Titeln behalten.
 Zum Ergänzen einen vorhandenen Block kopieren und Anker, Links, Bildpfade, Alt-Texte,
 Banner-Texte und Nummer anpassen. Neue Anker zugleich in der Orientierung verlinken.
 Bei einer Umordnung die Nummern aller betroffenen Banner und Alt-Texte abgleichen.
@@ -55,7 +57,7 @@ Leerzeilen innerhalb der details erhalten, damit GitHub Markdown korrekt rendert
 - **Linux & Server:** [T95 Home Server](#t95-home-server) · [Servergy](#servergy)
 - **KI & Automatisierung:** [ApplyFoundry](#applyfoundry)
 
-<a id="job-tracker"></a>
+<a name="job-tracker" id="job-tracker"></a>
 
 <!--
 JOB TRACKER: Vorschau in assets/job-tracker-preview.jpg, Anzeige mit 480 px Breite.
@@ -90,7 +92,7 @@ Oberfläche, Bewerbungslogik und Speicherung liegen in getrennten Schichten. So 
 
 <br>
 
-<a id="t95-home-server"></a>
+<a name="t95-home-server" id="t95-home-server"></a>
 
 <!-- T95: Ergebnisse auf die tatsächlich geprüfte Platine beziehen; Bildbreite 320 px. -->
 <a href="https://github.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server">
@@ -124,7 +126,7 @@ Zum Diagnosepfad gehört das separate [RP2040-Zero-UART-Adapterprojekt](https://
 
 <br>
 
-<a id="servergy"></a>
+<a name="servergy" id="servergy"></a>
 
 <!-- SERVERGY: Entwicklungs-/Release-Stand prüfen; WOL setzt geeignete Hardware und Einrichtung voraus. Keine T95-Unterstützung ableiten. -->
 <a href="https://github.com/Web-Developer-DB/Servergy">
@@ -156,7 +158,7 @@ Die App prüft den SSH-Host-Key und verwendet für das Herunterfahren einen begr
 
 <br>
 
-<a id="applyfoundry"></a>
+<a name="applyfoundry" id="applyfoundry"></a>
 
 <!-- APPLYFOUNDRY: Bewerbungsworkflow mit Python-Prüfungen und persönlicher Freigabe; keine berufliche KI-Engineering-Erfahrung behaupten. -->
 <a href="https://github.com/Web-Developer-DB/apply-foundry">
