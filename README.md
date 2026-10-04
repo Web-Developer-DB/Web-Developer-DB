@@ -24,15 +24,18 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
   Meine Basis sind eine <strong>Vollzeit-Weiterbildung im MERN-Stack</strong>, eigene Software- und Linux-Projekte sowie <strong>mehr als 20 Jahre technische Berufspraxis</strong> mit Fehlersuche, Prüfungen und Dokumentation.
 </p>
 
+<p align="center"><strong>Offen für Webentwicklung, IT-Support und Junior-Systemadministration.</strong></p>
+
+<!-- KONTAKT-CTA: Eigenständige SVG statt CSS-Button, damit GitHub ihn unverändert rendert. Kontakt bleibt die primäre Aktion in einer eigenen Zeile; Portfolio und Projekte darunter als normale Textlinks. -->
 <p align="center">
-  <a href="https://portfolio-web-developer-db.vercel.app"><strong>Portfolio ansehen ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#user-content-ausgewaehlte-projekte"><strong>Projekte entdecken ↓</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/web-developer-db"><strong>Kontakt auf LinkedIn ↗</strong></a>
+  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="340" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
 </p>
 
-<p align="center"><strong>Offen für Webentwicklung, IT-Support und Junior-Systemadministration.</strong></p>
+<p align="center">
+  <a href="https://portfolio-web-developer-db.vercel.app">Portfolio ansehen ↗</a>
+  &nbsp; · &nbsp;
+  <a href="#user-content-ausgewaehlte-projekte">Projekte entdecken ↓</a>
+</p>
 
 ---
 
@@ -98,7 +101,7 @@ Oberfläche, Bewerbungslogik und Speicherung liegen in getrennten Schichten. So 
 
 <a name="t95-home-server" id="t95-home-server"></a>
 
-<!-- T95: Ergebnisse auf die tatsächlich geprüfte Platine beziehen; Bildbreite 320 px. -->
+<!-- T95: Ergebnisse auf die tatsächlich geprüfte Platine beziehen. Sichtbar zuerst die vollständige TV-Box, dann die Platinenoberseite (je 320 px, proportional). Die Unterseite bleibt als ergänzende Ansicht in details. -->
 <a href="https://github.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server">
   <img src="assets/project-home-server.svg" width="100%" alt="Projekt 02: T95 Home Server – Linux und Hardwarediagnose." />
 </a>
@@ -112,10 +115,11 @@ Ich habe eine T95-TV-Box zum Linux-Homeserver umgebaut. Für diese Platine musst
 **[Projekt & Ergebnis ↗](https://github.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server) · [Technische Änderungen ↗](https://github.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/blob/main/docs/CHANGES_FROM_ARMBIAN.md)**
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-memory.jpg"><img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-memory.jpg" width="320" alt="Die tatsächlich geprüfte T95-Platine mit Allwinner H616 und Speicherbausteinen." /></a>
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-box-top.jpg"><img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-box-top.jpg" width="320" alt="Die vollständige T95-TV-Box, die ich zum Linux-Homeserver umgebaut habe." /></a>
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-connectors.jpg"><img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-connectors.jpg" width="320" alt="Oberseite der Platine aus dieser T95-TV-Box mit Kühlkörper, Bauteilen und Anschlüssen." /></a>
 </p>
 
-*Die Platine aus meinem Server-Projekt. Bild anklicken für die vollständige Ansicht.*
+*Die T95-TV-Box und die Oberseite ihrer Platine aus meinem Server-Projekt. Bilder anklicken für die vollständige Ansicht.*
 
 <details>
 <summary>Bootdiagnose, Änderungen und UART-Adapter</summary>
@@ -124,7 +128,7 @@ Die vorhandene Android-Installation galt als nicht vertrauenswürdig. Für die k
 
 Zum Diagnosepfad gehört das separate [RP2040-Zero-UART-Adapterprojekt](https://github.com/Web-Developer-DB/rp2040-zero-uart-adapter). Es dokumentiert Firmware, Verdrahtung und die Aufzeichnung serieller Bootlogs.
 
-<img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-box-top.jpg" width="260" alt="Das tatsächliche T95-Gehäuse aus dem Server-Projekt." />
+<a href="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-memory.jpg"><img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-memory.jpg" width="260" alt="Ergänzende Ansicht: Unterseite der T95-Platine mit Speicherbausteinen." /></a>
 
 </details>
 
@@ -248,10 +252,14 @@ Neue Technologien probiere ich gern praktisch aus, besonders **KI und Automatisi
 
 ## Kontakt
 
-<!-- KONTAKT: Berufsziel Webentwicklung/IT und systemnahe Aufgaben mit Einarbeitung. Kontakt über das bestätigte öffentliche LinkedIn-Profil; keine E-Mail-Adresse ergänzen. Bei einer Änderung beide Kontaktlinks (Einstieg und hier) aktualisieren. -->
+<!-- KONTAKT: Berufsziel Webentwicklung/IT und systemnahe Aufgaben mit Einarbeitung. Kontakt über das bestätigte öffentliche LinkedIn-Profil; keine E-Mail-Adresse ergänzen. Bei einer Änderung beide Kontaktlinks (Einstieg und hier) aktualisieren. Den gemeinsamen CTA aus assets/contact-linkedin.svg verwenden. -->
 Ich möchte beruflich in die **Webentwicklung oder ein anderes IT-Berufsfeld** einsteigen. Neben Entwicklungsstellen interessieren mich IT-Support, Junior-Systemadministration und andere systemnahe Aufgaben mit Einarbeitung. Dabei möchte ich meine Weiterbildung, meine Projekte und meine technische Erfahrung einsetzen. Wenn mein Hintergrund zu eurem Team passt, freue ich mich über eine Nachricht auf LinkedIn.
 
-**[Kontakt über LinkedIn ↗](https://www.linkedin.com/in/web-developer-db)** · [Alle Repositories ↗](https://github.com/Web-Developer-DB?tab=repositories)
+<p align="center">
+  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="340" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
+</p>
+
+[Alle Repositories ↗](https://github.com/Web-Developer-DB?tab=repositories)
 
 <p align="center">
   <img src="assets/profile-footer.svg" width="100%" alt="Danke für dein Interesse an meiner Arbeit." />
