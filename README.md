@@ -29,7 +29,7 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
   &nbsp; · &nbsp;
   <a href="#user-content-ausgewaehlte-projekte"><strong>Projekte entdecken ↓</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://portfolio-web-developer-db.vercel.app/#contact"><strong>Kontakt aufnehmen ↗</strong></a>
+  <a href="https://www.linkedin.com/in/web-developer-db"><strong>Kontakt auf LinkedIn ↗</strong></a>
 </p>
 
 <p align="center"><strong>Offen für Webentwicklung, IT-Support und Junior-Systemadministration.</strong></p>
@@ -248,10 +248,10 @@ Neue Technologien probiere ich gern praktisch aus, besonders **KI und Automatisi
 
 ## Kontakt
 
-<!-- KONTAKT: Berufsziel Webentwicklung/IT und systemnahe Aufgaben mit Einarbeitung; Kontakt über die vorhandene Portfolio-Seite. -->
-Ich möchte beruflich in die **Webentwicklung oder ein anderes IT-Berufsfeld** einsteigen. Neben Entwicklungsstellen interessieren mich IT-Support, Junior-Systemadministration und andere systemnahe Aufgaben mit Einarbeitung. Dabei möchte ich meine Weiterbildung, meine Projekte und meine technische Erfahrung einsetzen. Wenn mein Hintergrund zu eurem Team passt, freue ich mich über eine Nachricht.
+<!-- KONTAKT: Berufsziel Webentwicklung/IT und systemnahe Aufgaben mit Einarbeitung. Kontakt über das bestätigte öffentliche LinkedIn-Profil; keine E-Mail-Adresse ergänzen. Bei einer Änderung beide Kontaktlinks (Einstieg und hier) aktualisieren. -->
+Ich möchte beruflich in die **Webentwicklung oder ein anderes IT-Berufsfeld** einsteigen. Neben Entwicklungsstellen interessieren mich IT-Support, Junior-Systemadministration und andere systemnahe Aufgaben mit Einarbeitung. Dabei möchte ich meine Weiterbildung, meine Projekte und meine technische Erfahrung einsetzen. Wenn mein Hintergrund zu eurem Team passt, freue ich mich über eine Nachricht auf LinkedIn.
 
-**[Portfolio & Kontakt ↗](https://portfolio-web-developer-db.vercel.app/#contact)** · [Alle Repositories ↗](https://github.com/Web-Developer-DB?tab=repositories)
+**[Kontakt über LinkedIn ↗](https://www.linkedin.com/in/web-developer-db)** · [Alle Repositories ↗](https://github.com/Web-Developer-DB?tab=repositories)
 
 <p align="center">
   <img src="assets/profile-footer.svg" width="100%" alt="Danke für dein Interesse an meiner Arbeit." />
