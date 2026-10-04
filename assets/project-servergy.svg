@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="110" viewBox="0 0 1040 110" role="img" aria-labelledby="title desc">
+  <!-- Pflege: Projektbanner 1040 × 110; Nummer/Kategorie, Projektname und Icon. Bei Änderungen title/desc sowie README-Reihenfolge und Alt-Text abgleichen. Gemeinsames Layout siehe project-job-tracker.svg. -->
+  <title id="title">Servergy – App &amp; Server</title>
+  <desc id="desc">Kompakter Projektbanner mit Nummer, Kategorie, Titel und einem stilisierten Symbol.</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#101c30"/><stop offset="1" stop-color="#172740"/></linearGradient>
+    <clipPath id="clip"><rect width="1040" height="110" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1040" height="110" fill="url(#bg)"/>
+    <path d="M2 13V97" stroke="#83c8ff" stroke-width="4"/>
+    <path d="M902 0L875 110" stroke="#8fa6c7" stroke-opacity=".12"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="28" y="32" font-size="15" font-weight="700" letter-spacing="2" fill="#83c8ff">03 / APP &amp; SERVER</text>
+      <text x="27" y="82" font-size="39" font-weight="700" letter-spacing="-.7" fill="#f1f6ff">Servergy</text>
+    </g>
+    <g transform="translate(938 15)" fill="none" stroke="#83c8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><rect x="20" y="5" width="40" height="70" rx="10"/><path d="M32 14H48M40 31V44M30 37A15 15 0 1 0 50 37"/></g>
+  </g>
+  <rect x=".5" y=".5" width="1039" height="109" rx="14" fill="none" stroke="#83c8ff" stroke-opacity=".25"/>
+</svg>

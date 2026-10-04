@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="110" viewBox="0 0 1040 110" role="img" aria-labelledby="title desc">
+  <!-- Pflege: Projektbanner 1040 × 110; Nummer/Kategorie, Projektname und Icon. Bei Änderungen title/desc sowie README-Reihenfolge und Alt-Text abgleichen. Gemeinsames Layout siehe project-job-tracker.svg. -->
+  <title id="title">ApplyFoundry – Ki &amp; Automatisierung</title>
+  <desc id="desc">Kompakter Projektbanner mit Nummer, Kategorie, Titel und einem stilisierten Symbol.</desc>
+  <defs>
+    <linearGradient id="bg"><stop stop-color="#101c30"/><stop offset="1" stop-color="#172740"/></linearGradient>
+    <clipPath id="clip"><rect width="1040" height="110" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1040" height="110" fill="url(#bg)"/>
+    <path d="M2 13V97" stroke="#ffb56b" stroke-width="4"/>
+    <path d="M902 0L875 110" stroke="#8fa6c7" stroke-opacity=".12"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="28" y="32" font-size="15" font-weight="700" letter-spacing="2" fill="#ffb56b">04 / KI &amp; AUTOMATISIERUNG</text>
+      <text x="27" y="82" font-size="39" font-weight="700" letter-spacing="-.7" fill="#f1f6ff">ApplyFoundry</text>
+    </g>
+    <g transform="translate(938 15)" fill="none" stroke="#ffb56b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><path d="M14 8H47L64 25V72H14Z"/><path d="M47 8V25H64M25 34H50M25 44H44M25 56L33 63L51 48"/></g>
+  </g>
+  <rect x=".5" y=".5" width="1039" height="109" rx="14" fill="none" stroke="#ffb56b" stroke-opacity=".25"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="200" viewBox="0 0 1120 200" role="img" aria-labelledby="title desc">
+  <!-- Pflege: Kompakter Profilbanner 1120 × 200. Name und Themen hier, berufliche Überschrift in README.md. Farben Dunkelblau/Cyan beibehalten; title, desc und README-Alt-Text bei Inhaltsänderungen abgleichen. SVG ohne externe Ressourcen halten. -->
+  <title id="title">Web-Developer-DB – Web, Apps und Linux.</title>
+  <desc id="desc">Kompakter dunkelblauer Profilbanner mit cyanfarbener Typografie und einem kleinen Codefenster.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091425"/><stop offset="1" stop-color="#172241"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#66e1f2"/><stop offset="1" stop-color="#a9b7ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4169b4" stop-opacity=".32"/><stop offset="1" stop-color="#4169b4" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1120" height="200" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1120" height="200" fill="url(#bg)"/>
+    <circle cx="979" cy="90" r="235" fill="url(#glow)"/>
+    <path d="M0 1H1120" stroke="url(#accent)" stroke-width="3"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="38" y="61" width="54" height="54" rx="13" fill="#6bdff0" fill-opacity=".1" stroke="#78dced" stroke-opacity=".3"/>
+      <text x="65" y="97" fill="#8ce6f2" font-size="25" font-weight="700" text-anchor="middle">DB</text>
+      <text x="114" y="96" fill="#f1f6ff" font-size="44" font-weight="700" letter-spacing="1.5">WEB-DEVELOPER-DB</text>
+      <text x="116" y="140" fill="#b8c7df" font-size="25">Web · Apps · Linux</text>
+      <path d="M116 164H170" stroke="#ffb56b" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(871 30)">
+      <path d="M-48 74H0M173 38H196V8" stroke="#7089c0" stroke-width="2" fill="none"/>
+      <circle cx="-48" cy="74" r="4" fill="#6bdff0"/><circle cx="196" cy="8" r="4" fill="#ffb56b"/>
+      <rect width="177" height="137" rx="15" fill="#111e35" stroke="#5675a4" stroke-width="1.5"/>
+      <path d="M0 32H177" stroke="#344b71"/>
+      <circle cx="18" cy="16" r="3" fill="#ffb56b"/><circle cx="30" cy="16" r="3" fill="#a9b7ff"/><circle cx="42" cy="16" r="3" fill="#6bdff0"/>
+      <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+        <path d="M54 57L37 76L54 95M125 57L142 76L125 95" stroke="#6bdff0"/>
+        <path d="M98 51L80 102" stroke="#a9b7ff"/>
+      </g>
+      <path d="M29 117H65M78 117H135" stroke="#344b71" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1119" height="199" rx="18" fill="none" stroke="#a9b7ff" stroke-opacity=".2"/>
+</svg>
