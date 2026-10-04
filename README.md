@@ -28,7 +28,7 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
 
 <!-- KONTAKT-CTA: Eigenständige SVG statt CSS-Button, damit GitHub ihn unverändert rendert. Kontakt bleibt die primäre Aktion in einer eigenen Zeile; Portfolio und Projekte darunter als normale Textlinks. -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="340" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
+  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="170" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
 </p>
 
 <p align="center">
@@ -181,6 +181,31 @@ Mit ApplyFoundry entwickle ich einen KI-gestützten Bewerbungsworkflow mit nachv
 
 **[Workflow & Architektur ↗](https://github.com/Web-Developer-DB/apply-foundry) · [Tests & CI ↗](https://github.com/Web-Developer-DB/apply-foundry/actions)**
 
+<!-- APPLYFOUNDRY-BILDER: Öffentlich vorhandene Beispiele aus DEV, auf Commit 786da7fab6cf245f6e32551843cccba67972a513 fixiert, damit spätere Branchänderungen die Vorschau nicht verändern. Dialog/Ordner sind schematisch; Dokumente sind Designvorschauen mit synthetischen Testdaten. Herkunft und Kennzeichnung bei einem Bildwechsel prüfen; keine echten Bewerbungsdaten einfügen. Workflow sichtbar mit 480 px, weitere Beispiele in details. -->
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/workflow-example.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/workflow-example.png" width="480" alt="Schematischer ApplyFoundry-Beispieldialog mit fiktivem Auftrag, technischen Prüfungen und persönlicher Ergebnisprüfung." /></a>
+</p>
+
+*Schematischer Beispieldialog mit fiktiven Testdaten aus dem Entwicklungszweig `DEV`. Bild anklicken für die vollständige Ansicht.*
+
+<details>
+<summary>Beispielausgaben: Lebenslauf, Anschreiben und Dateistruktur</summary>
+
+Die folgenden Designvorschauen verwenden ebenfalls fiktive Testdaten aus `DEV`. Die Ordneransicht stellt die Trennung von Ausgabedateien und internen Nachweisen schematisch dar.
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/cv-example.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/cv-example.png" width="260" alt="Fiktive Lebenslauf-Designvorschau für Max Mustermann aus ApplyFoundry." /></a>
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/cover-letter-example.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/cover-letter-example.png" width="260" alt="Fiktive Anschreiben-Designvorschau für Max Mustermann aus ApplyFoundry." /></a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/output-example.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/786da7fab6cf245f6e32551843cccba67972a513/.github/assets/output-example.png" width="480" alt="Schematisches ApplyFoundry-Ausgabebeispiel mit getrennten Versanddateien und internen Nachweisen." /></a>
+</p>
+
+*Bilder anklicken für die vollständige Ansicht.*
+
+</details>
+
 <details>
 <summary>Prüfmechanismen und persönliche Freigabe</summary>
 
@@ -256,7 +281,7 @@ Neue Technologien probiere ich gern praktisch aus, besonders **KI und Automatisi
 Ich möchte beruflich in die **Webentwicklung oder ein anderes IT-Berufsfeld** einsteigen. Neben Entwicklungsstellen interessieren mich IT-Support, Junior-Systemadministration und andere systemnahe Aufgaben mit Einarbeitung. Dabei möchte ich meine Weiterbildung, meine Projekte und meine technische Erfahrung einsetzen. Wenn mein Hintergrund zu eurem Team passt, freue ich mich über eine Nachricht auf LinkedIn.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="340" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
+  <a href="https://www.linkedin.com/in/web-developer-db"><img src="assets/contact-linkedin.svg" width="170" alt="Kontakt auf LinkedIn aufnehmen ↗" /></a>
 </p>
 
 [Alle Repositories ↗](https://github.com/Web-Developer-DB?tab=repositories)
