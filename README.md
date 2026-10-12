@@ -32,7 +32,8 @@ in heller/dunkler Ansicht ansehen; SVGs als XML prüfen und git diff --check aus
 </p>
 
 <p align="center">
-  <a href="https://portfolio-web-developer-db.vercel.app">Portfolio ansehen ↗</a>
+  
+<!--  <a href="https://portfolio-web-developer-db.vercel.app">Portfolio ansehen ↗</a> -->
   &nbsp; · &nbsp;
   <a href="#user-content-ausgewaehlte-projekte">Projekte entdecken ↓</a>
 </p>
