@@ -37,6 +37,7 @@ Für die T95-Referenzplatine habe ich U-Boot und den Linux-Gerätebaum angepasst
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-connectors.jpg"><img src="https://raw.githubusercontent.com/Web-Developer-DB/t95-tvbox-to-armbian-home-server/main/docs/images/t95-board-connectors.jpg" width="340" alt="Oberseite der getesteten T95-Platine mit Kühlkörper und Anschlüssen" /></a>
+  <br><em>Getestete T95-Referenzplatine</em>
 </p>
 
 <a name="servergy" id="servergy"></a>
@@ -48,6 +49,11 @@ Servergy verbindet Wake-on-LAN mit SSH-basierter Verbindungsprüfung und kontrol
 `Flutter` · `Dart` · `Wake-on-LAN` · `SSH` · `systemd`
 
 [Repository & App-Vorschau](https://github.com/Web-Developer-DB/Servergy) · [Architektur](https://github.com/Web-Developer-DB/Servergy/blob/main/docs/architecture.md) · [CI-Konfiguration](https://github.com/Web-Developer-DB/Servergy/blob/main/.github/workflows/quality.yml)
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/Servergy/main/assets/screenshots/app-showcase.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/Servergy/main/assets/screenshots/app-showcase.png" width="480" alt="Servergy mit Dashboard und Einstellungen im dunklen Farbschema" /></a>
+  <br><em>Dashboard und Einstellungen von Servergy</em>
+</p>
 
 <a name="web-apis" id="web-apis"></a>
 
@@ -63,14 +69,10 @@ Die installierbare Web-App verwaltet Bewerbungen, Termine und Wiedervorlagen off
 
 [Repository](https://github.com/Web-Developer-DB/Job-Tracker) · [Live-Demo](https://job-tracker-three-iota.vercel.app/) · [Speicherlogik](https://github.com/Web-Developer-DB/Job-Tracker/blob/main/src/services/storage.ts)
 
-<details>
-<summary>App-Vorschau mit fiktiven Demodaten</summary>
-
 <p align="center">
   <a href="assets/job-tracker-preview.jpg"><img src="assets/job-tracker-preview.jpg" width="480" alt="Job-Tracker-Dashboard mit drei fiktiven Bewerbungen, Statusübersicht und Beispieltermin" /></a>
+  <br><em>Job-Tracker-Dashboard mit fiktiven Demodaten</em>
 </p>
-
-</details>
 
 <a name="carservice-backend" id="carservice-backend"></a>
 
@@ -81,6 +83,11 @@ Die REST-API verwaltet Fahrzeuge und Wartungsereignisse. Sie prüft Zugriffsrech
 `Node.js` · `Express` · `MongoDB` · `Redis` · `REST`
 
 [Repository & API-Dokumentation](https://github.com/Web-Developer-DB/CarService-Backend) · [Betriebshandbuch](https://github.com/Web-Developer-DB/CarService-Backend/blob/main/docs/OPERATIONS.md)
+
+<p align="center">
+  <a href="assets/carservice-api-overview.svg"><img src="assets/carservice-api-overview.svg" width="480" alt="Architektur der CarService REST-API mit Web-Client, MongoDB, Redis und SMTP" /></a>
+  <br><em>Architektur der CarService REST-API v2</em>
+</p>
 
 <a name="ki-automatisierung" id="ki-automatisierung"></a>
 
@@ -95,6 +102,11 @@ ApplyFoundry verbindet die Dokumentenerstellung aus belegten Angaben mit automat
 `Python` · `AGENTS.md` · `Chromium` · `PDF` · `GitHub Actions`
 
 [Repository](https://github.com/Web-Developer-DB/apply-foundry) · [Architektur & Tests](https://github.com/Web-Developer-DB/apply-foundry/blob/main/docs/architecture.md) · [Testlauf mit synthetischen Daten](https://github.com/Web-Developer-DB/apply-foundry/blob/main/Tests/Fixtures/Readme/README.md)
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/main/.github/assets/readme-pruefung.png"><img src="https://raw.githubusercontent.com/Web-Developer-DB/apply-foundry/main/.github/assets/readme-pruefung.png" width="480" alt="ApplyFoundry-Übersicht zur Sichtprüfung mit zwei gerenderten Dokumentvorschauen aus einem synthetischen Testlauf" /></a>
+  <br><em>Sichtprüfung mit PDF-Vorschauen aus einem synthetischen Testlauf</em>
+</p>
 
 <a name="arbeitsweise" id="arbeitsweise"></a>
 

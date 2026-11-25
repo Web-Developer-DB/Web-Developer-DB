@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title description">
+  <title id="title">CarService Backend · Architektur der REST-API v2</title>
+  <desc id="description">Ein Web-Client verwendet die REST-API mit Bearer- und CSRF-Token. Die API nutzt MongoDB für Fahrzeug- und Wartungsdaten, Redis für Sitzungen und Anfragebegrenzung sowie SMTP für E-Mail-Verifikation und Passwort-Reset.</desc>
+  <!-- Architektur gemäß https://github.com/Web-Developer-DB/CarService-Backend#-architektur -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="8" markerHeight="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0l8 4-8 4z" fill="#7ddbea"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="798" height="358" rx="21" fill="#101c30" stroke="#435a78" stroke-width="2"/>
+  <path d="M30 89h740" stroke="#435a78"/>
+  <g fill="none" stroke="#7ddbea" stroke-width="2.5" marker-end="url(#arrow)">
+    <path d="M243 220h31"/>
+    <path d="M502 220h19v-74h32"/>
+    <path d="M502 220h51"/>
+    <path d="M502 220h19v74h32"/>
+  </g>
+  <g stroke="#526c8b" stroke-width="1.5" fill="#18273e">
+    <rect x="30" y="177" width="209" height="86" rx="12"/>
+    <rect x="278" y="177" width="220" height="86" rx="12" fill="#173445" stroke="#7ddbea"/>
+    <rect x="558" y="112" width="212" height="68" rx="12"/>
+    <rect x="558" y="186" width="212" height="68" rx="12"/>
+    <rect x="558" y="260" width="212" height="68" rx="12"/>
+  </g>
+  <g font-family="system-ui, sans-serif">
+    <g fill="#f1f6ff" font-weight="700">
+      <text x="30" y="42" font-size="30">CarService Backend</text>
+      <text x="48" y="212" font-size="23">Web-Client</text>
+      <text x="296" y="212" font-size="23">REST-API v2</text>
+      <text x="576" y="141" font-size="22">MongoDB</text>
+      <text x="576" y="215" font-size="22">Redis</text>
+      <text x="576" y="289" font-size="22">SMTP</text>
+    </g>
+    <g fill="#c4d4ea" font-size="19">
+      <text x="30" y="71" fill="#7ddbea">Architekturübersicht</text>
+      <text x="48" y="239">Bearer + CSRF</text>
+      <text x="296" y="239">Fahrzeuge &amp; Wartung</text>
+      <text x="576" y="165">Fahrzeugdaten</text>
+      <text x="576" y="239">Sitzungen &amp; Limits</text>
+      <text x="576" y="313">Verifikation &amp; Reset</text>
+    </g>
+  </g>
+</svg>
